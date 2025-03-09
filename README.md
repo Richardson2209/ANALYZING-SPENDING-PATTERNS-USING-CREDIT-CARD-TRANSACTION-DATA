@@ -1,1 +1,1 @@
-# ANALYZING-SPENDING-PATTERNS-USING-CREDIT-CARD-TRANSACTION-DATA
+git clone https://github.com/yourusername/spending-patterns.git
