@@ -1,1 +1,1 @@
-git clone https://github.com/yourusername/spending-patterns.git
+git clone https://github.com/Richardson2209/spending-patterns.git
